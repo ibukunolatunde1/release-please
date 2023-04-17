@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/ibukunolatunde1/release-please/compare/v1.0.0...v1.1.0) (2023-04-17)
+
+
+### Features
+
+* Changing MyName ([386e9a4](https://github.com/ibukunolatunde1/release-please/commit/386e9a4f02b3a05f1356e2d46c7c18d8e7ee5b50))
+
+
+### Bug Fixes
+
+* Trying this out ([ae60485](https://github.com/ibukunolatunde1/release-please/commit/ae604856932f3c5658e8d6c43be96b9819802a83))
+
 ## 1.0.0 (2023-04-16)
 
 
