@@ -1,3 +1,3 @@
-const myName = "Ibukun is now Me"
+const myName = "Ibukun"
 
 console.log(`Hello World ${myName}`);
