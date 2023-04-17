@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.0.0](https://github.com/ibukunolatunde1/release-please/compare/v2.0.1...v3.0.0) (2023-04-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* VSCode Work Around
+
+### Features
+
+* Creating a new feature ([ca91b53](https://github.com/ibukunolatunde1/release-please/commit/ca91b53152322270d6696c2b555bebb52d28d705))
+* VSCode Work Around ([2633339](https://github.com/ibukunolatunde1/release-please/commit/2633339b8100b871e5600baac8ccf6e525c131c0))
+
+
+### Bug Fixes
+
+* Creating a new fix ([4552393](https://github.com/ibukunolatunde1/release-please/commit/45523936826adc217c20a25a8a7c8d1a80d0d3fb))
+
 ## [2.0.1](https://github.com/ibukunolatunde1/release-please/compare/v2.0.0...v2.0.1) (2023-04-17)
 
 
