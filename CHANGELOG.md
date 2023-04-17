@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/ibukunolatunde1/release-please/compare/v3.0.0...v2.1.0) (2023-04-17)
+
+
+### Miscellaneous Chores
+
+* release 2.1.0 ([8e1e184](https://github.com/ibukunolatunde1/release-please/commit/8e1e184c4556960eb620702190ea7c14ffde8340))
+
 ## [3.0.0](https://github.com/ibukunolatunde1/release-please/compare/v2.0.1...v3.0.0) (2023-04-17)
 
 
