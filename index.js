@@ -1,3 +1,3 @@
 const myName = "Ibukun"
 
-console.log(`Hello World ${myName}`);
+console.log(`Hello Word ${myName}`);
