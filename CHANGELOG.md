@@ -12,7 +12,7 @@
 
 * Another Breaking Change ([6ade379](https://github.com/ibukunolatunde1/release-please/commit/6ade379fc1b6bff79d640a5b40dae62f76ff1533))
 * Creating another Breaking Change ([d12e6ab](https://github.com/ibukunolatunde1/release-please/commit/d12e6ab72bf2f017ba42023ae9f523df558826e3))
-* New Feature ([9755120](https://github.com/ibukunolatunde1/release-please/commit/9755120a31477513df535d5da3158c13cf9a5a90))
+* New Feature Added to This to see manual updating([9755120](https://github.com/ibukunolatunde1/release-please/commit/9755120a31477513df535d5da3158c13cf9a5a90))
 
 
 ### Bug Fixes
