@@ -1,5 +1,33 @@
 # Changelog
 
+## [2.1.0](https://github.com/ibukunolatunde1/release-please/compare/v3.0.0...v2.1.0) (2023-04-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* Testing Again
+* Another Breaking Change
+* Creating another Breaking Change
+
+### Features
+
+* Another Breaking Change ([6ade379](https://github.com/ibukunolatunde1/release-please/commit/6ade379fc1b6bff79d640a5b40dae62f76ff1533))
+* Creating another Breaking Change ([d12e6ab](https://github.com/ibukunolatunde1/release-please/commit/d12e6ab72bf2f017ba42023ae9f523df558826e3))
+* New Feature ([9755120](https://github.com/ibukunolatunde1/release-please/commit/9755120a31477513df535d5da3158c13cf9a5a90))
+* Testing Again ([726f44d](https://github.com/ibukunolatunde1/release-please/commit/726f44deab5b8c0aac8596821840ab5a084417df))
+* Testing Bump Issue ([f2df9b6](https://github.com/ibukunolatunde1/release-please/commit/f2df9b66e80f33e6219a994f716796aa90fe1040))
+* Updated Changelog ([1eecf10](https://github.com/ibukunolatunde1/release-please/commit/1eecf109d280202e07519bce4392ab0cc0b55537))
+
+
+### Bug Fixes
+
+* Testing Fixes ([5607b4e](https://github.com/ibukunolatunde1/release-please/commit/5607b4eb2e56bab75c79893517aea27a239e66ca))
+
+
+### Miscellaneous Chores
+
+* release 2.1.0 ([8e1e184](https://github.com/ibukunolatunde1/release-please/commit/8e1e184c4556960eb620702190ea7c14ffde8340))
+
 ## [3.0.0](https://github.com/ibukunolatunde1/release-please/compare/v2.1.0...v3.0.0) (2023-04-19)
 
 
