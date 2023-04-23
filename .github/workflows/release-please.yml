@@ -2,7 +2,6 @@ on:
   push:
     branches:
       - master
-  # workflow_dispatch:
 
 permissions:
   contents: write
@@ -19,3 +18,4 @@ jobs:
           release-type: node
           package-name: release-please-action
           token: ${{ secrets.GITHUB_TOKEN }}
+          bump-patch-for-minor-pre-major: true
